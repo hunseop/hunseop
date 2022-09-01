@@ -1,0 +1,37 @@
+Cumulative Stats in timespan 2021-01-11 00:00:00 to 2021-01-11 01:00:00
+wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+  Submissions                                       : 7472       : 124.1
+  wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+Cumulative Stats in timespan 2021-01-11 01:00:00 to 2021-01-11 02:00:00
+wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+  Submissions                                       : 1058       : 128.2
+  wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+Cumulative Stats in timespan 2021-01-11 02:00:00 to 2021-01-11 03:00:00
+wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+  Submissions                                       : 6218       : 124.3
+Cumulative Stats in timespan 2021-01-11 03:00:00 to 2021-01-11 04:00:00
+  Submissions                                       : 3518       : 124.4
+Cumulative Stats in timespan 2021-01-11 04:00:00 to 2021-01-11 05:00:00
+wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfg
+
+
+  Submissions                                       : 10542       : 124.5
+Cumulative Stats in timespan 2021-01-11 05:00:00 to 2021-01-11 06:00:00
+  Submissions                                       : 8354       : 124.6
+Cumulative Stats in timespan 2021-01-11 06:00:00 to 2021-01-11 07:00:00
+
+
+  Submissions                                       : 4882       : 124.7
+Cumulative Stats in timespan 2021-01-11 07:00:00 to 2021-01-11 08:00:00
+  Submissions                                       : 4385       : 124.8
+  wndrlakwsdrjlaskdrjasldkrjasdrasdfgxjhdfgjdfgjhsdfgd
+Cumulative Stats in timespan 2021-01-11 08:00:00 to 2021-01-11 09:00:00
+  Submissions                                       : 1886       : 124.9
+Cumulative Stats in timespan 2021-01-11 09:00:00 to 2021-01-11 10:00:00
+  Submissions                                       : 7548       : 124.10
+Cumulative Stats in timespan 2021-01-11 10:00:00 to 2021-01-11 11:00:00
+  Submissions                                       : 38548       : 124.11
+Cumulative Stats in timespan 2021-01-11 11:00:00 to 2021-01-11 12:00:00
+  Submissions                                       : 5488       : 124.12
